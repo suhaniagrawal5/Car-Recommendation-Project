@@ -1,4 +1,4 @@
-# 🚗 Car Recommendation System (Vector Similarity Search)
+# Car Recommendation System (Vector Similarity Search)
 
 > **A Practice Learning Project Exploring Feature Engineering, Vector Search (FAISS), and Data Product Delivery**
 
